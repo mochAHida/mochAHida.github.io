@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="id">
+    <head>
+        <title>KAKIK</title>
+        <link rel="stylesheet" href="/css/index.css">
+    </head>
+    <body>
+        <!-- Header Page -->
+        <header class="header">
+            <h1 class="titlePage">Welcome to Katik</h1>
+            <h5 class="welcome"> Hai Sobat, Selamat datang di Katik:] </h5>
+            <p class="intro">Sebuah web apps sederhana yang berfungsi untuk menghitung nilai luas dan keliling bangun datar (segitiga dan jajar genjang)</p>
+        </header>
+        <!--Navigation Page-->
+        <nav class="navigation">
+            <a href="#" class="navigation">Segitiga</a>
+            <a href="parallelogram.html" class="navigation">Jajar Genjang</a>
+        </nav>
+        <!--Main Page-->
+        <main class="main">
+            <!--Area of Triangle-->
+            <section class="triangle">
+                <h2 class="title1">Luas Segitiga</h2>
+                <img src="assets/triangleArea.png" class="triangleArea" >
+                <div class="detailArea"> 
+                    <p>Rumus Luas Segitiga, yaitu:</p>
+                    <p class="formulaAreaTri"> L = 1/2 x a x t</p>
+                    <p> Dimana:</p>
+                    <p> L = Luas</p>
+                    <p> a = Pangjang Atas</p>
+                    <p> t = Tinggi</p>
+                    <hr>
+                </div>
+                <div class="t-a-cal">
+                    <h3 class="title2">Hitung Luas Segitiga</h3>
+                    <div>
+                        <input type="text" id="base1" placeholder="input alas" class="inputAreaTri">
+                        <br>
+                        <input type="text" id="height1" placeholder="input tinggi" class="inputAreaTri">
+                    </div>
+                    <p>L = 1/2 x a x t</p>
+                    <p id="textArea1">L =</p>
+                    <p id="resultArea1">L =</p>
+                    <button class="cal1" onclick="area1()" type="Submit">Hitung</button>
+                    <br>
+                    <button class="res1" onclick="reset1()" type="reset">Reset</button>
+                    <br><br><br>
+                </div>
+                <script src="js/index.js" type="application/javascript"></script>
+            </section>
+             <!--Perimeter of Triangle-->
+             <section class="triangle">
+                <h2 class="title1">Keliling Segitiga</h2>
+                <img src="assets/trianglePerimeter.png" class="triangleArea" >
+                <div class="detailArea"> 
+                    <p>Rumus Keliling Segitiga, yaitu:</p>
+                    <p class="formulaAreaTri"> K = S1 + S2 + S3</p>
+                    <p> Dimana:</p>
+                    <p> K = Keliling</p>
+                    <p> S1 = Sisi A</p>
+                    <p> S2 = Sisi B</p>
+                    <p> S2 = Sisi C</p> 
+                    <hr>
+                </div>
+                <div class="t-a-cal">
+                    <h3 class="title2">Hitung Keliling Segitiga</h3>
+                    <div>
+                        <input type="text" id="s1" placeholder="input S1" class="inputAreaTri">
+                        <br>
+                        <input type="text" id="s2" placeholder="input S2" class="inputAreaTri">
+                        <br>
+                        <input type="text" id="s3" placeholder="input S3" class="inputAreaTri">
+                    </div>
+                    <p>K = S1 + S2 + S3</p>
+                    <p id="textPerimeter1">K =</p>
+                    <p id="resultPerimeter1">K =</p>
+                    <button class="cal1" onclick="perimeter1()" type="Submit">Hitung</button>
+                    <br>
+                    <button onclick="reset2()" type="reset" class="res1">Reset</button>
+                    <br><br><br>
+                </div>
+                <script src="js/index.js" type="application/javascript"></script>
+            </section>
+        </main>
+    </body>
+</html>

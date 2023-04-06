@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="id">
+    <head>
+        <title>KAKIK</title>
+        <link rel="stylesheet" href="/css/index.css">
+    </head>
+    <body>
+        <!-- Header Page -->
+        <header class="header">
+            <h1 class="titlePage">Welcome to Katik</h1>
+            <h5 class="welcome"> Hai Sobat, Selamat datang di Katik:] </h5>
+            <p class="intro">Sebuah web apps sederhana yang berfungsi untuk menghitung nilai luas dan keliling bangun datar (segitiga dan jajar genjang)</p>
+        </header>
+        <!--Navigation Page-->
+        <nav class="navigation">
+            <a href="index.html" class="navigation">Segitiga</a>
+            <a href="#" class="navigation">Jajar Genjang</a>
+        </nav>
+        <!--Main Page-->
+        <main class="main">
+             <!--Area of parallelogram-->
+             <section class="triangle">
+                <h2 class="title1">Luas Jajar Genjang</h2>
+                <img src="assets/parallelogramArea.png" class="triangleArea" >
+                <div class="detailArea"> 
+                    <p>Rumus Luas Jajar Genjang, yaitu:</p>
+                    <p class="formulaAreaTri"> L = a x t</p>
+                    <p> Dimana:</p>
+                    <p> L = Luas</p>
+                    <p> a = Pangjang Atas</p>
+                    <p> t = Tinggi</p>
+                    <hr>
+                </div>
+                <div class="t-a-cal">
+                    <h3 class="title2">Hitung Luas Jajar Genjang</h3>
+                    <div>
+                        <input type="text" id="base2" placeholder="input alas" class="inputAreaTri">
+                        <br>
+                        <input type="text" id="height2" placeholder="input tinggi" class="inputAreaTri">
+                    </div>
+                    <p>L = a x t</p>
+                    <p id="textArea2">L =</p>
+                    <p id="resultArea2">L =</p>
+                    <button class="cal1" onclick="area2()" type="Submit">Hitung</button>
+                    <br>
+                    <button class="res1" onclick="reset3()" type="reset">Reset</button>
+                    <br><br><br>
+                </div>
+                <script src="js/index.js" type="application/javascript"></script>
+            </section>
+             <!--Perimeter of parallelogram-->
+             <section class="triangle">
+                <h2 class="title1">Keliling Jajar Genjang</h2>
+                <img src="assets/parallelogramPerimeter.png" class="triangleArea" >
+                <div class="detailArea"> 
+                    <p>Rumus Luas Jajar Genjang, yaitu:</p>
+                    <p class="formulaAreaTri">K = 2 x (sA + sb)</p>
+                    <p> Dimana:</p>
+                    <p> K = Keliling</p>
+                    <p> sA = Sisi A</p>
+                    <p> sB = Sisi B</p>
+                    <hr>
+                </div>
+                <div class="t-a-cal">
+                    <h3 class="title2">Hitung Keliling Jajar Genjang</h3>
+                    <div>
+                        <input type="text" id="sA" placeholder="input sisi A" class="inputAreaTri">
+                        <br>
+                        <input type="text" id="sB" placeholder="input sisi B" class="inputAreaTri">
+                    </div>
+                    <p>K = 2 x (sA + sb)</p>
+                    <p id="textPerimeter2">K =</p>
+                    <p id="resultPerimeter2">K =</p>
+                    <button class="cal1" onclick="perimeter2()" type="Submit">Hitung</button>
+                    <br>
+                    <button class="res1" onclick="reset4()" type="reset">Reset</button>
+                    <br><br><br>
+                </div>
+                <script src="js/index.js" type="application/javascript"></script>
+            </section>
+        </main>
+    </body>
+</html>

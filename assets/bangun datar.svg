@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="bangun datar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.36925856"
+     inkscape:cx="473.92267"
+     inkscape:cy="747.44375"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5948" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1190"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1190-3"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.38799;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1244"
+       width="138.88818"
+       height="155.45859"
+       x="-333.02954"
+       y="-120.46925"
+       transform="matrix(1,0,-0.45469591,0.89064675,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       x="145.91818"
+       y="122.10514"
+       id="text1358"><tspan
+         sodipodi:role="line"
+         id="tspan1356"
+         style="stroke-width:1"
+         x="145.91818"
+         y="122.10514" /></text>
+    <g
+       id="g5948"
+       transform="translate(189.87937,-7.1652593)">
+      <g
+         id="g1476"
+         transform="translate(-11.65319,23.306376)">
+        <path
+           sodipodi:type="star"
+           style="fill:none;stroke:#000000;stroke-width:0.385428;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="path288"
+           inkscape:flatsided="true"
+           sodipodi:sides="3"
+           sodipodi:cx="74.985733"
+           sodipodi:cy="70.425789"
+           sodipodi:r1="33.44342"
+           sodipodi:r2="16.72171"
+           sodipodi:arg1="1.555646"
+           sodipodi:arg2="2.6028435"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="M 75.492392,103.86537 45.772876,54.144778 103.69193,53.267218 Z"
+           inkscape:transform-center-x="2.9865461"
+           inkscape:transform-center-y="50.669015"
+           transform="matrix(-2.4166058,-0.03254568,0.03700341,-2.7850379,103.76978,333.05666)" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m -74.452449,41.198432 c -0.238841,46.813289 -0.477681,93.626318 -0.71652,140.439078"
+           id="path1188"
+           inkscape:path-effect="#path-effect1190"
+           inkscape:original-d="m -74.452449,41.198432 c -0.23857,46.81329 -0.47742,93.626318 -0.71652,140.439078" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         x="-113.99857"
+         y="214.82399"
+         id="text1370"><tspan
+           sodipodi:role="line"
+           id="tspan1368"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';fill:#28220b;stroke-width:0.1"
+           x="-113.99857"
+           y="214.82399">a  (alas)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         x="-94.745483"
+         y="159.59801"
+         id="text1480"><tspan
+           sodipodi:role="line"
+           id="tspan1478"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';fill:#28220b;stroke-width:0.1"
+           x="-94.745483"
+           y="159.59801">t  (tinggi)</tspan></text>
+    </g>
+    <g
+       id="g5929"
+       transform="translate(302.37394,2.1495778)">
+      <path
+         sodipodi:type="star"
+         style="fill:none;stroke:#000000;stroke-width:0.385428;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         id="path288-1"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="74.985733"
+         sodipodi:cy="70.425789"
+         sodipodi:r1="33.44342"
+         sodipodi:r2="16.72171"
+         sodipodi:arg1="1.555646"
+         sodipodi:arg2="2.6028435"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 75.492392,103.86537 45.772876,54.144778 103.69193,53.267218 Z"
+         inkscape:transform-center-x="2.9865461"
+         inkscape:transform-center-y="50.669015"
+         transform="matrix(-2.4166058,-0.03254568,0.03700341,-2.7850379,299.28673,330.41802)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         x="99.305435"
+         y="187.97099"
+         id="text3730"><tspan
+           sodipodi:role="line"
+           id="tspan3728"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';fill:#28220b;stroke-width:0.1"
+           x="99.305435"
+           y="187.97099">S1 (Sisi A)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         x="32.426266"
+         y="113.99858"
+         id="text4462"><tspan
+           sodipodi:role="line"
+           id="tspan4460"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';fill:#28220b;stroke-width:0.1"
+           x="32.426266"
+           y="113.99858">S3 (Sisi C)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         x="159.59801"
+         y="114.50524"
+         id="text4466"><tspan
+           id="tspan4464"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';fill:#28220b;stroke-width:0.1"
+           x="159.59801"
+           y="114.50524"
+           sodipodi:role="line">S2 (Sisi B)</tspan></text>
+    </g>
+  </g>
+</svg>
